@@ -1,4 +1,4 @@
-# Ark of the Macintosh
+# Ark of the Bash
 
 You are free to use, modify, or do whatever else you like to these examples. 
 
